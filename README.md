@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px" height="30px">
 <!--👋-->
 I'm an Android programmer now.
 
